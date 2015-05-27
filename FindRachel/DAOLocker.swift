@@ -9,7 +9,7 @@
 import UIKit
 
 class DAOLocker: DAOFindRachel{
-//yfjyfj
+    //teste1
     override func loadPList() -> NSMutableDictionary? {
         
         var lockers: NSMutableDictionary = contents["Lockers"] as! NSMutableDictionary!
